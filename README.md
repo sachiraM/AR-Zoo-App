@@ -1,6 +1,6 @@
 # 🦁 AR Zoo App
 
-**AR Zoo** is a marker-based Augmented Reality (AR) application designed for an interactive zoo experience. This educational app brings five wild and domestic animals to life using AR technology, combining realistic 3D animations with natural sound effects.
+**AR Zoo** is a marker-based Augmented Reality (AR) application designed for an interactive zoo experience. This educational app brings five wild animals to life using AR technology, combining realistic 3D animations with natural sound effects.
 
 ## 📱 Features
 
