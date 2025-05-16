@@ -37,6 +37,7 @@
 - Build and run the project on a mobile device.
 
 <h3>📝 Notes</h3>
+
 - Make sure your device camera permissions are enabled.
 - Multiple image targets are supported.
 - Git LFS is used to manage large files like the Vuforia .tgz package.
