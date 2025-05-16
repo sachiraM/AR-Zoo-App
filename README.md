@@ -21,11 +21,11 @@
 
 | Animal   | Marker Image                                                                             |
 | -------- | ---------------------------------------------------------------------------------------- |
-| 🦁 Lion  | [View Marker](https://github.com/sachiraM/AR-Zoo-App/blob/main/Markers/lion-marker.jpg)  |
-| 🐪 Camel | [View Marker](https://github.com/sachiraM/AR-Zoo-App/blob/main/Markers/camel-marker.jpg) |
-| 🐑 Sheep | [View Marker](https://github.com/sachiraM/AR-Zoo-App/blob/main/Markers/sheep-marker.jpg) |
-| 🦓 Zebra | [View Marker](https://github.com/sachiraM/AR-Zoo-App/blob/main/Markers/zebra-marker.jpg) |
-| 🐕 Hyena | [View Marker](https://github.com/sachiraM/AR-Zoo-App/blob/main/Markers/hyena-marker.jpg) |
+| 🦁 Lion  | [View Marker](https://github.com/sachiraM/AR-Zoo-App/blob/main/Screenshots/lion.PNG)  |
+| 🐪 Camel | [View Marker](https://github.com/sachiraM/AR-Zoo-App/blob/main/Screenshots/camel.JPG) |
+| 🐑 Sheep | [View Marker](https://github.com/sachiraM/AR-Zoo-App/blob/main/Screenshots/sheep.JPG) |
+| 🦓 Zebra | [View Marker](https://github.com/sachiraM/AR-Zoo-App/blob/main/Screenshots/zebra.JPG) |
+| 🐕 Hyena | [View Marker](https://github.com/sachiraM/AR-Zoo-App/blob/main/Screenshots/hyena.JPG) |
 
 <h2>🚀 Getting Started</h2>
 
@@ -43,4 +43,4 @@
 
 <h3>📷 ScreenShots</h3>
 
-![Demo](Screenshots/demo.png)
+![Demo](Screenshots/screenshot5.JPEG)
