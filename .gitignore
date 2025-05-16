@@ -27,6 +27,10 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
+
+# Vuforia
+QCAR/
 
 # Gradle cache directory
 .gradle/
