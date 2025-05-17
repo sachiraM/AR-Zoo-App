@@ -30,8 +30,8 @@
 <h2>🚀 Getting Started</h2>
 
 - Clone the repository.
-- Open the project in Unity.
-- Make sure Vuforia is enabled:
+- Open the project in **Unity 6.1 (6000.1.3f1)** or newer (recommended).
+- Make sure Vuforia is enabled.
 - Go to Project Settings > XR Settings and enable Vuforia Augmented Reality.
 - Import the .tgz Vuforia package if not already present.
 - Build and run the project on a mobile device.
