@@ -30,9 +30,16 @@
 <h2>🚀 Getting Started</h2>
 
 - Clone the repository.
-- Open the project in **Unity 6.1 (6000.1.3f1)** or newer (recommended).
+- Install Git LFS and pull required files:
+  ```bash
+  git lfs install
+  git lfs pull
+
+  //If it fails, you can manually download the Vuforia `.tgz` package and place it inside the `Packages/` folder.
+- Open the project in **Unity 6.1 (6000.1.3f1)** or newer.
 - Make sure Vuforia is enabled.
 - Go to Project Settings > XR Settings and enable Vuforia Augmented Reality.
+- Open the appropriate scene: **Go to the Scenes folder and open the main scene file**
 - Import the .tgz Vuforia package if not already present.
 - Build and run the project on a mobile device.
 
